@@ -40,10 +40,10 @@ A couple of problems I encountered
         position: sticky;
         z-index: 100;
         top: 0;
-    }'''
+    }  
 
-    - Creating space between images in the right column
-        As of the moment of noting this, I seem to be unable to create space by either padding or margin because the color overlay stretches out leaving the image behind. I have tried to solve this problem in the same way I have the navbar but it is not working. All the nested classes work about the same. 
+- Creating space between images in the right column
+        As of the moment of noting this, I seem to be unable to create space by either padding or margin because the color overlay stretches out leaving the image behind. I have tried         to solve this problem in the same way I have the navbar but it is not working. All the nested classes work about the same. 
 
-    - Creating hover effect on images
+- Creating hover effect on images
         I am working under the assumption that the same problem encounters in the previous comment is at fault. 
