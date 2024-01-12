@@ -11,6 +11,7 @@ The framework I will reach out to:
 - React
 
 (08.01.24 - 12.01.24)
+
 Language:
 HTML and CSS
 
