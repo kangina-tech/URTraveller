@@ -1,22 +1,22 @@
 This is the first website I have created.
 
 Key things to note:
-    - No tutorial was followed
-    - It is a continuous project i.e., I will be building on it as time progresses.
+- No tutorial was followed
+- It is a continuous project i.e., I will be building on it as time progresses.
 
 The languages being used are:
-    - HTML, CSS and JavaScript
+- HTML, CSS and JavaScript
 
 The framework I will reach out to:
-    - React
+- React
 
 (08.01.24 - 12.01.24)
 Language:
 HTML and CSS
 
 A couple of problems I encountered
-    - The navbar CSS.
-        The intial stress had been adding in the CSS. The navbar seemed to not take in the background colour assigned. This was solved by using even more specific nested classes than using the overall nav indicator. 
+- The navbar CSS.
+      The intial stress had been adding in the CSS. The navbar seemed to not take in the background colour assigned. This was solved by using even more specific nested classes than     using the overall nav indicator. 
 
     '''<nav class="navbar">
         <ul>
